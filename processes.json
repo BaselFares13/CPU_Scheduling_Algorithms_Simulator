@@ -1,0 +1,25 @@
+{
+    "quantum" : 4, 
+    "processes_list" : [
+        {
+            "name" : "P1",
+            "cpu_burst": 8,
+            "arrival_time": 0
+        }, 
+        {
+            "name" : "P2",
+            "cpu_burst": 4,
+            "arrival_time": 1
+        },
+        {
+            "name" : "P3",
+            "cpu_burst": 9,
+            "arrival_time": 2
+        },
+        {
+            "name" : "P4",
+            "cpu_burst": 5,
+            "arrival_time": 3
+        }
+    ]
+}
